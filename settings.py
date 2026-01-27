@@ -1,0 +1,3 @@
+API_KEY = "RGAPI-adfcd1a7-0b0d-467d-86d1-944afdd7d832"
+DEFAULT_REGION_CODE = 'NA1'
+DEFAULT_REGION = 'americas'
